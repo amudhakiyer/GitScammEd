@@ -26,6 +26,7 @@
     {"id":{"name":"obj_victim","path":"objects/obj_victim/obj_victim.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"achievements","path":"sprites/achievements/achievements.yy",},},
+    {"id":{"name":"backdrop","path":"sprites/backdrop/backdrop.yy",},},
     {"id":{"name":"culprit","path":"sprites/culprit/culprit.yy",},},
     {"id":{"name":"title","path":"sprites/title/title.yy",},},
     {"id":{"name":"tutorial","path":"sprites/tutorial/tutorial.yy",},},
